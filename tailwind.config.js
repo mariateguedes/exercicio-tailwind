@@ -4,6 +4,12 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontSize: {
+        '10xl': '10rem',
+      },
+      fontFamily: {
+        'poppins': ['Poppins', 'sans-serif'] 
+      },
       colors: {
         'surface': '#121212',
         'base': '#ffffff',
