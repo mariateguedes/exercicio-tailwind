@@ -5,3 +5,4 @@
 .btn {
   @apply text-back opacity-50 font-semibold text-xs hover:text-base hover:text-xs hover:opacity-100 active:text-base;
 }
+
