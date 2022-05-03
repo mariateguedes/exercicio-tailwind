@@ -3,8 +3,12 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
+    minWidth: {
+      '10': '10rem',
+    },
     extend: {
       fontSize: {
+        'xxs': '.55rem',
         '10xl': '10rem',
       },
       fontFamily: {
